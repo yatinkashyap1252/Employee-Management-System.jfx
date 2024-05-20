@@ -1,0 +1,29 @@
+.left-form{
+    -fx-background-color: linear-gradient(to bottom,#184c39,#56b1df);
+}
+.top-form{
+    -fx-background-color:linear-gradient(to right,#184c39,#56b1df);
+    -fx-border-width: 3;
+    -fx-border-color: white;
+}
+.btn-icon{
+    -fx-background-color: transparent;
+    -fx-text-fill: white;
+}
+.btn-icon:hover{
+    -fx-text-fill: black;
+    -fx-font-weight: 700;
+    -fx-background-color: linear-gradient(to right,#fff,transparent 67% );
+}
+.box-effect{
+    -fx-background-color: white;
+    -fx-background-radius: 10px;
+}
+.top-bar{
+    -fx-background-color: rgba(230, 229, 229, 0.83);
+    -fx-background-radius: 10px;
+}
+.card {
+    -fx-background-color: linear-gradient(to right, #2b2b2b, #656565);
+    -fx-background-radius: 7px;
+}

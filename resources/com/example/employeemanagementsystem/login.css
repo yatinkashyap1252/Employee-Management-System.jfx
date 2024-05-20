@@ -1,0 +1,14 @@
+.left-form{
+    -fx-background-color: linear-gradient(to bottom right, #184c39, #0f956d);
+}
+.lgn-btn{
+    -fx-background-color: #56b1df;
+    -fx-text-fill: white;
+    -fx-font-weight: 900;
+}
+.lgn-btn:hover{
+    -fx-background-color: white;
+    -fx-text-fill: #56b1df;
+    -fx-border-color: black;
+    -fx-border-width: 2;
+}
